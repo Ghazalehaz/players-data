@@ -17,7 +17,7 @@
   sports: Tennis
   team:
     name: N/A
-    city: 'N/A'
+    city: N/A
   position: Player
   age: '41'
 - name: Tom Brady
