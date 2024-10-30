@@ -4,14 +4,14 @@
   team:
     name: Lakers
     city: Los Angeles
-  position: 'forward'
+  position: forward
   age: '38'
 - name: Lionel Messi
   sports: Soccer
   team:
     name: Inter Miami
     city: Miami
-  position: 'forward'
+  position: forward
   age: '36'
 - name: Serena Williams
   sports: Tennis
