@@ -14,11 +14,11 @@
   position: 'forward '
   age: '36'
 - name: Serena Williams
-  sports: Soccer
+  sports: Tennis
   team:
-    name: Tennis
-    city: N/A
-  position: 'N/A'
+    name: N/A
+    city: 'N/A'
+  position: Player
   age: '41'
 - name: Tom Brady
   sports: Football
