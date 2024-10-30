@@ -2,7 +2,7 @@
 - name: LeBron James
   sports: Basketball
   team:
-    name: Lakers
+   name: Lakers
     city: Los Angeles
   position: 'forward '
   age: '38'
